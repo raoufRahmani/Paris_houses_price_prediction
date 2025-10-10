@@ -3,7 +3,7 @@ Paris_house_price_prediction
 
 The objective of our study is to determine the effect of some features (like the number of rooms and the surface area) on the price of a house in Paris, through a multiple linear regression model, and then improve the quality of our prediction with the ExtraTreesRegressor algorithm.
 
-## Practical Section: Econometric Study of Real Estate Prices in Paris — Analysis Based on the DVF Dataset
+## Practical Section: Econometric Study of Real Prices in Paris — Analysis Based on the DVF Dataset
 
 * Description of the dataset used
 
