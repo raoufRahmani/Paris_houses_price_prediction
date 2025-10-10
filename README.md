@@ -7,7 +7,7 @@ The objective of our study is to determine the effect of some features (like the
 
 * Description of the dataset used
 
-The data used in this study is extracted from "Demande de Valeurs Foncières" (DVF) dataset, published and produced by the General Directorate of Public Finances (DGFiP), which records all real estate transactions that took place over the past five years in metropolitan France, in the Overseas Departments and Regions, with the exception of Alsace, Moselle, and Mayotte. The data is selected from the Data.gouv.fr website and concerns the territory of Paris. The DVF file contains several pieces of information for each transaction.
+The data used in this study is extracted from "Demande de Valeurs Foncières" (DVF) dataset, published and produced by the General Directorate of Public Finances in France (DGFiP), which records all real estate transactions that took place over the past five years in metropolitan France, in the Overseas Departments and Regions, with the exception of Alsace, Moselle, and Mayotte. The data is selected from the Data.gouv.fr website and concerns the territory of Paris. The DVF file contains several pieces of information for each transaction.
 Here is a short explanation for each column :
 
 valeur_fonciere: Represents the sale price of the property (also called the property value) in euros, as recorded in the transaction.
